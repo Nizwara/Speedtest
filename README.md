@@ -15,7 +15,7 @@
 ### Method 1:
 
 ```bash
-wget https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest.sh && \
+wget https://raw.githubusercontent.com/Nizwara/speedtest/master/speedtest.sh && \
 sudo bash speedtest.sh && \
 speedtest
 ```
@@ -25,7 +25,7 @@ speedtest
 ### Method 2:
 
 ```bash
-wget https://raw.githubusercontent.com/tankibaj/speedtest/master/speedtest && \
+wget https://raw.githubusercontent.com/Nizwara/speedtest/master/speedtest && \
 sudo chmod +x speedtest && \
 sudo mv speedtest /usr/bin/speedtest && \
 speedtest
